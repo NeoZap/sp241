@@ -14,3 +14,9 @@ ZCZC W01 30 L08 OS Chat related
 ZCZC W01 15 L04 GitHub Pages Related
 ZCZC W01 5 L01 SCELE related
 ZCZC W01 3 L03 GitHub related
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 20 L01 SCELE related
+ZCZC W02 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 10 L03 GitHub related
+ZCZC W02 20 L05 POP QUIZ related
+ZCZC W02 240 L09 Weekly Assignments
