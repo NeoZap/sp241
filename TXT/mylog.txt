@@ -26,4 +26,9 @@ ZCZC W03 150 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 10 L03 GitHub related
 ZCZC W03 60 L05 POP QUIZ related
 ZCZC W03 90 L09 Weekly Assignments
-
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 20 L01 SCELE related
+ZCZC W04 150 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 80 L05 POP QUIZ related
+ZCZC W04 70 L09 Weekly Assignments
