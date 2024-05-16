@@ -4,4 +4,4 @@
 
 ## NeoZap
 
-[MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/neozap/sp241/) --- [GitHub Page](https://neozap.github.io/sp241/)
+[MYLOG](TXT/mylog.txt) --- [GitHub Site](https://github.com/neozap/sp241/) --- [GitHub Page](https://neozap.github.io/sp241/) --- [TIPS](https://neozap.github.io/sp241/TIPS/)
